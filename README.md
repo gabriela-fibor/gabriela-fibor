@@ -2,7 +2,7 @@
 
 I'm Gabriela and I'm taking my first steps in the exciting world of IT and enthusiastically developing my skills.
 
-### My background 😄
+### My background 😄 
 
 *   **Education**: I hold a Bachelor's degree in Economics from the University of Wrocław and am currently pursuing a Master's degree in Business Informatics at the Wrocław University of Economics.
 *   **Online marketing**: My online marketing background, including the 'Skills of Tomorrow' course and e-commerce management internship, provides valuable business insights for tech projects.
