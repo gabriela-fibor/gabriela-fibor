@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 I'm Gabriela and I'm taking my first steps in the exciting world of IT and enthusiastically developing my skills.
 
