@@ -10,7 +10,7 @@ I'm Gabriela and I'm taking my first steps in the exciting world of IT and enthu
 * **Online marketing**: My online marketing background, including the 'Skills of Tomorrow' course and e-commerce management internship, provides valuable business insights for tech projects.
 * **English proficiency**: I have a Cambridge Advanced English (C1) certificate.
 
-### My tech journey 🌱
+### My tech journey 
 * **Python**: I'm learning Python, with a specific focus on using it as a tool for data manipulation and analysis.
 * **SQL**: I am expanding my technical stack with SQL, focusing on mastering data retrieval and manipulation to transform raw information into structured datasets.
 * **AI Enthusiast**: Having completed the "AI - Skills of Tomorrow" program, I am now a dedicated AI enthusiast, exploring how machine learning and automation can transform the future of technology.
